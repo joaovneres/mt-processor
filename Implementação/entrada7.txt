@@ -1,0 +1,29 @@
+10
+2 a b
+4 B
+9
+22
+0 B 1 B R
+1 a 2 B R
+1 B 9 B R
+2 B 9 B R
+2 a 3 a R
+2 b 3 b R
+2 B 9 B R
+3 a 3 a R
+3 b 3 b R
+3 B 4 B L
+4 a 8 B L
+1 b 5 B R
+5 a 6 a R
+5 b 6 b R
+5 B 9 B R
+6 a 6 a R
+6 b 6 b R
+6 B 7 B L
+7 b 8 B L
+8 a 8 a L
+8 b 8 b L
+8 B 1 B R
+1
+-

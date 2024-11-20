@@ -6,7 +6,7 @@
 0 a 1 B R
 1 a 0 B R
 0 B 2 B R
-9
+10
 aa
 a
 aaa
@@ -16,3 +16,4 @@ aaaaa
 aaaaaa
 aaaaaaa
 aaaaaaaa
+b

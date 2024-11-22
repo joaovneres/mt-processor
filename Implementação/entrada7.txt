@@ -1,0 +1,36 @@
+9
+2 a b
+4 B
+8
+20
+0 a 1 B R
+0 B 8 B R
+0 b 4 B R
+1 B 8 B R
+1 a 2 a R
+1 b 2 b R
+2 a 2 a R
+2 b 2 b R
+2 B 3 B L
+3 a 7 B L
+4 a 5 a R
+4 b 5 b R
+4 B 8 B R
+5 a 5 a R
+5 b 5 b R
+5 B 6 B L
+6 b 7 B L
+7 a 7 a L
+7 b 7 b L
+7 B 0 B R
+10
+-
+a
+aa
+aba
+abba
+bab
+ab
+aab
+abb
+abab
